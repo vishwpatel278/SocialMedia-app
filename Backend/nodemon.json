@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "routes",
+    "models",
+    "cache",
+    "server.js"
+  ],
+  "ignore": [
+    "venv"
+  ]
+}
